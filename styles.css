@@ -1,1 +1,19 @@
 /* Write your CSS here! */
+body{
+    background-color: cornsilk;
+}
+p{
+    color: purple;
+}
+.con-info{
+    color: green;
+}
+#main-text{
+    color: rgb(4, 4, 121);
+}
+.post-info{
+    color: blue;
+}
+.center{
+    text-align: center;
+}
